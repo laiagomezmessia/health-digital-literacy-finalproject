@@ -71,7 +71,7 @@ Jupyter notebook for data analysis and model building.
 
 ### Web scraping for additional data.
 
-## Tableau for visualization:
+### Tableau for visualization:
 - [Link to Tableau](https://public.tableau.com/app/profile/laia.g.mez.mess.a/viz/DigitalDivideandHealthInequalities/Dashboard2)
 
 ## Conclusion
