@@ -71,6 +71,8 @@ Jupyter notebook for data analysis and model building.
 
 ### Web scraping for additional data.
 
+## [Tableau for visualization:]([https://github.com/laiagomezmessia](https://public.tableau.com/app/profile/laia.g.mez.mess.a/viz/DigitalDivideandHealthInequalities/Dashboard2 ))  
+
 ## Conclusion
 This project sheds light on the interconnectedness of the digital divide, health inequalities, and their impact on individual well-being. The findings underscore the importance of addressing disparities in digital access and health literacy to promote overall satisfaction and happiness. The call to action is to advocate for comprehensive social policies that empower individuals, irrespective of their socio-economic standing, to navigate the complexities of the digital age.
 
