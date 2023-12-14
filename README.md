@@ -1,4 +1,4 @@
-# Digital Divide, Health Inequalities: the Ripple Effect on Well-being Indicators
+# Digital Divide and Health Inequalities: the Ripple Effect on Well-being Indicators
 
 ***
 
