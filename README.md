@@ -16,7 +16,7 @@
 In this project, the focus is on exploring the impact of the digital divide and health literacy on well-being indicators among adults aged 50-79 in Spain. The primary goal is to unravel the complex relationships between digital usage, health literacy, and individual well-being, using a dataset obtained from telephone surveys conducted in 2022.
 
 ## Screenshot
-![Screenshot](IMAGETOADD.png)
+![Screenshot](DDHealth.png)
 
 ## Data Sources
 The dataset used for this project was created through telephone surveys, sampling 2,000 adults aged 50-79 years old residing in Spain. It includes demographic information, socio-economic status, digital usage, health literacy, and indicators of individual well-being.
